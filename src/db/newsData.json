@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "title": "Sample News Headline 1",
+      "description": "This is the first news article.",
+      "source": "Sample News Source",
+      "url": "https://example.com/news1",
+      "publishedAt": "2023-09-20T08:00:00Z"
+    },
+    {
+      "title": "Sample News Headline 2",
+      "description": "This is the second news article.",
+      "source": "Sample News Source",
+      "url": "https://example.com/news2",
+      "publishedAt": "2023-09-20T09:30:00Z"
+    },
+    {
+      "title": "Sample News Headline 3",
+      "description": "This is the third news article.",
+      "source": "Sample News Source",
+      "url": "https://example.com/news3",
+      "publishedAt": "2023-09-20T11:15:00Z"
+    }
+  ]
+}
